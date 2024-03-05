@@ -32,6 +32,9 @@ const endPoints = {
   "rahuldeshwal": [
     "https://api.rahuldeshwal.bigbooster.in/",
   ],
+  "bigbooster_saas": [
+    "https://coral-app-kewpe.ondigitalocean.app/",
+  ],
   "class12": [
     "https://api.class.bigbooster.in/12/",
   ],
