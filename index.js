@@ -25,8 +25,9 @@ const http = require('http').Server(app);
 const endPoints = {
   "bigbooster": [
     "https://apiv2.bigbooster.in/",
-    // "https://apiv3.bigbooster.in/",
-    // "https://apiv4.bigbooster.in/"
+    "https://apiv2.bigbooster.in/",
+    "https://apiv3.bigbooster.in/",
+    "https://apiv4.bigbooster.in/"
   ],
   "rahuldeshwal": [
     "https://api.rahuldeshwal.bigbooster.in/",
