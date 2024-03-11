@@ -24,8 +24,8 @@ const port = 8080
 const http = require('http').Server(app);
 const endPoints = {
   "bigbooster": [
-    "https://apiv3.bigbooster.in/"
-    // "https://apiv4.bigbooster.in/"
+    "https://apiv3.bigbooster.in/",
+    "https://apiv2.bigbooster.in/"
   ],
   "bigbooster_8.0.2": [
     "https://d0c6-43-230-42-78.ngrok-free.app/"
