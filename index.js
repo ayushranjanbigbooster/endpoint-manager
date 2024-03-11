@@ -24,8 +24,6 @@ const port = 8080
 const http = require('http').Server(app);
 const endPoints = {
   "bigbooster": [
-    "https://apiv2.bigbooster.in/",
-    "https://apiv2.bigbooster.in/",
     "https://apiv3.bigbooster.in/",
     "https://apiv4.bigbooster.in/"
   ],
