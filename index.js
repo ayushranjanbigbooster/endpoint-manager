@@ -29,6 +29,9 @@ const endPoints = {
     "https://apiv3.bigbooster.in/",
     "https://apiv4.bigbooster.in/"
   ],
+  "bigbooster_8.0.2": [
+    "https://d0c6-43-230-42-78.ngrok-free.app/"
+  ],
   "rahuldeshwal": [
     "https://api.rahuldeshwal.bigbooster.in/",
   ],
