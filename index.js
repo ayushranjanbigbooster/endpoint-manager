@@ -24,11 +24,11 @@ const port = 8080
 const http = require('http').Server(app);
 const endPoints = {
   "bigbooster": [
-    "https://apiv3.bigbooster.in/",
-    "https://apiv2.bigbooster.in/"
+    "https://goldfish-app-5zyca.ondigitalocean.app/",
+    "https://goldfish-app-5zyca.ondigitalocean.app/"
   ],
   "bigbooster_8.0.2": [
-    "https://d0c6-43-230-42-78.ngrok-free.app/"
+    "https://goldfish-app-5zyca.ondigitalocean.app/"
   ],
   "rahuldeshwal": [
     "https://api.rahuldeshwal.bigbooster.in/",
